@@ -3,6 +3,7 @@ module.exports = {
         './resources/**/*.blade.php',
         './resources/**/*.js',
         './resources/**/*.vue',
+        './resources/js/components/*.vue',
     ],
     darkMode: "class", // false or 'media' or 'class'
     theme: {
