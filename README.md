@@ -1,9 +1,4 @@
-![Laravel Tailwind Boilerplate - Vue Ready](https://user-images.githubusercontent.com/6561770/129886774-bf666556-28df-40b7-9007-726e088f1828.png)
-
-![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/magarrent)
-
+> This project is based on [Marc Garcia's project](https://github.com/magarrent/laravel-tailwind-boilerplate-vue-ready). Please check his repo first if you willing to use the original one. I only add some Vue pages and make a model and a controller, because the original one doesn't include the implementation of Vue pages and the Blade view.
 
 ### Features
 
@@ -18,11 +13,7 @@
 
 ## Usage
 
-```
-🌟 Give a repo Star :)
-```
-
-Just [download the latest ZIP release](https://github.com/magarrent/laravel-tailwind-boilerplate-vue-ready/releases) of the repository and init the laravel project
+Clone this repository (or maybe download the .zip one)
 
 ```bash
 npm install #install npm dependencies
